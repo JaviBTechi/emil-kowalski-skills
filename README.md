@@ -2,7 +2,7 @@
 
 [![skills.sh](https://skills.sh/b/emilkowalski/skill)](https://skills.sh/emilkowalski/skills)
 
-My agent skills that I use every day. For designers and engineers to help them build better user interfaces.
+For designers and engineers to help them build better user interfaces.
 
 Knowing whether you made a right choice when it comes to animations, or design in general, is hard. These skills aim to help you get to those right decisions faster.
 
@@ -12,19 +12,13 @@ If you want to dive even deeper into design engineering, you can checkout my ani
 
 [Check out animations.dev](http://animations.dev/)
 
-## Quickstart (30-second setup)
-
-1. Run the skills.sh installer:
+## Install
 
 ```bash
 npx skills@latest add emilkowalski/skill
 ```
 
-2. Pick the skills you want, and which coding agents you want to install them on.
-  
-3. You’re ready to go.
-
-## Why these skills exists
+## Why use it?
 
 Agents don’t have great taste
 
