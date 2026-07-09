@@ -1,3 +1,7 @@
+<a href="http://animations.dev/">
+<img width="400" height="210" alt="opengraph-image-pwu6ef" src="https://github.com/user-attachments/assets/a405a37f-1a1a-4e8d-8fd6-269ee6d4fba6" />
+</a>
+
 # Skills For Design Engineers
 
 [![skills.sh](https://skills.sh/b/emilkowalski/skills)](https://skills.sh/emilkowalski/skills)
@@ -12,9 +16,9 @@ All the skills here are a side-effect of domain-expertise. AI doesn’t replace 
 
 So learn to code, design, or develop expertise in any other field. It’s extremely valuable.
 
-I add and improve these skills often. Sign up to the newsletter below and I'll let you know about any updates or new skills.
+You’ll build animation expertise here:
 
-[Sign Up To The Newsletter](http://animations.dev/skills)
+[Check out animations.dev](http://animations.dev/)
 
 ## Install
 
