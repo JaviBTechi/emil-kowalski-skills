@@ -38,7 +38,6 @@ As explained in [Agents with Taste](https://emilkowal.ski/ui/agents-with-taste),
 
 This is your shortcut to great interfaces. A shortcut to stand out in a sea of slop.
 
-
 ## Reference
 
 - **[emil-design-eng](./skills/emil-design-eng/SKILL.md)** — The main skill that consists of mostly animation, but also some design advice.
@@ -47,6 +46,7 @@ This is your shortcut to great interfaces. A shortcut to stand out in a sea of s
 - **[find-animation-opportunities](./skills/find-animation-opportunities/SKILL.md)** — Search your UI for places that would genuinely benefit from motion, while also telling you what not to animate.
 - **[animation-vocabulary](./skills/animation-vocabulary/SKILL.md)** — Get better animations from an AI by telling it exactly what you want by using the right words.
 - **[apple-design](./skills/apple-design/SKILL.md)** — Apple's principles for interface design and fluid motion, distilled from their WWDC design talks and translated for the web.
+- **[pick-ui-library](./skills/pick-ui-library/SKILL.md)** — Have your agent pick the right library for the task based on libraries I use and trust, instead of letting AI hand-roll a toast component or install an abandoned package.
 
 ### Improve animations
 
